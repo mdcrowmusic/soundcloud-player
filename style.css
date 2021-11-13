@@ -1,0 +1,36 @@
+body {
+  padding:50px;
+  
+}
+
+hr {
+  margin:10vw;
+  height:1px;
+  border:none;
+  background-color:#000;
+  
+}
+
+ul {
+list-style-type: none;
+  padding:0;
+  margin:10vw;
+  
+}
+
+li {
+  padding:4px;
+  background-color:#eee;
+}
+
+li:hover{
+  cursor:pointer;
+  background-color:#ccc;
+}
+
+button{
+  color:black;
+  background-color:white;
+  border:solid 1px;
+  min-width:30px;
+}
